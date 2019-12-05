@@ -2,12 +2,24 @@ body{
   background-color: #F0CEA0;
 
 }
-h1,{
+h1{
   text-align: center;
   color: #2C365E;
   font-size: 42px;
   font-family:'Bree Serif', serif;
 }
+p{
+  color: #2C365E;
+  font-size: 21px;
+  font-family:'Bree Serif', serif;
+  text-align: center;
+}
+table{
+  margin: auto;
+}
 .image{
-  
+  border-radius: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
 }
